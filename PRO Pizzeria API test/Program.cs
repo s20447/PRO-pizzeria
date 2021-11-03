@@ -10,6 +10,7 @@ namespace PRO_Pizzeria_API_test
 
             Console.WriteLine("Interfejs strony glownej");
             Console.WriteLine("Interfejs strony glownej czesc 2");
+            // test
         }
     }
 }
