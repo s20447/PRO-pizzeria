@@ -12,6 +12,7 @@ namespace PRO_Pizzeria_API_test
 
             Console.WriteLine(" Fixed");
             Console.WriteLine(" Serwus!!");
+            Console.WriteLine(" Mapa dojazdu");
 
         }
     }
